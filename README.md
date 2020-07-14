@@ -1,3 +1,3 @@
 # MINERS
 
-Our project is aboout mapping and integration of databases.
+Our project is about mapping and integration of databases.
